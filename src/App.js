@@ -1,4 +1,5 @@
 import Card from "./components/card/card.component";
+import "./App.css";
 
 const cards = [
   {
@@ -19,7 +20,7 @@ const cards = [
 
 const App = () => {
   return (
-    <div>
+    <div className="container">
       {
         cards.map((card) => <Card key={card.id} card ={card}/>)
       }

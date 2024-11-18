@@ -1,0 +1,25 @@
+body{
+    color: #333; /*Yazı Rengi*/
+    font-family: Arial, Helvetica, sans-serif; /*Yazı Ailesi*/
+    background-color: #f1f1f1;
+    max-width: 900px;
+    margin: 0 auto;
+}
+
+img{
+    width: 100%;
+    border-radius: 5px;
+}
+
+p{
+    line-height: 1.5;
+    text-align: justify;
+}
+
+button{
+    cursor: pointer; /*Fare işareti*/
+    border: none; /*Kenarlık*/
+    padding: 14px 16px; /*Üst-Alt ve Sağ-Sol*/
+    border-radius: 5px; /*Köşe Ovalliği */
+    font-weight: bold; /*Yazı Kalınlığı*/
+}
