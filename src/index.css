@@ -2,8 +2,6 @@ body{
     color: #333; /*Yazı Rengi*/
     font-family: Arial, Helvetica, sans-serif; /*Yazı Ailesi*/
     background-color: #f1f1f1;
-    max-width: 900px;
-    margin: 0 auto;
 }
 
 img{
