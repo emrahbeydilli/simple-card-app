@@ -1,0 +1,12 @@
+.card {
+    background-color: white;
+    padding: 20px;
+    margin-bottom: 20px;
+    border-radius: 5px;
+}
+
+.card-date{
+    color: #aaa;
+    margin-bottom: 10px;
+    font-style: italic;
+}

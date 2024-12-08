@@ -1,23 +1,24 @@
-body{
-    color: #333; /*Yazı Rengi*/
-    font-family: Arial, Helvetica, sans-serif; /*Yazı Ailesi*/
+/* Buraya yazılan CSS kodları bütün websitesine yansır */
+body {
+    color: #333;
+    font-family: Arial, Helvetica, sans-serif;
     background-color: #f1f1f1;
 }
 
 img{
     width: 100%;
-    border-radius: 5px;
 }
 
-p{
+p {
     line-height: 1.5;
     text-align: justify;
 }
 
 button{
-    cursor: pointer; /*Fare işareti*/
-    border: none; /*Kenarlık*/
-    padding: 14px 16px; /*Üst-Alt ve Sağ-Sol*/
-    border-radius: 5px; /*Köşe Ovalliği */
-    font-weight: bold; /*Yazı Kalınlığı*/
+    cursor: pointer;
+    border: none;
+    padding: 14px 16px;
+    border-radius: 5px;
+    font-weight: bold;
+    margin-right: 10px;
 }
